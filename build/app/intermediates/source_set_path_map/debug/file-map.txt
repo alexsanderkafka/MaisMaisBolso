@@ -1,0 +1,13 @@
+kafka.system.com.maismaisbolso.app-core-1.6.0-0 C:\Users\alexs\.gradle\caches\transforms-3\284a410c767ad6c7a2b0ffc8d8d85981\transformed\core-1.6.0\res
+kafka.system.com.maismaisbolso.app-jetified-window-java-1.0.0-beta04-1 C:\Users\alexs\.gradle\caches\transforms-3\2a215381204751055df81b6269e717b7\transformed\jetified-window-java-1.0.0-beta04\res
+kafka.system.com.maismaisbolso.app-jetified-annotation-experimental-1.1.0-2 C:\Users\alexs\.gradle\caches\transforms-3\3d2f03fc996c2e0aa3dee5cfa3002cd1\transformed\jetified-annotation-experimental-1.1.0\res
+kafka.system.com.maismaisbolso.app-jetified-window-1.0.0-beta04-3 C:\Users\alexs\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\res
+kafka.system.com.maismaisbolso.app-debug-4 D:\ws-projects\projects_with_flutter\maismaisbolso\android\app\src\debug\res
+kafka.system.com.maismaisbolso.app-main-5 D:\ws-projects\projects_with_flutter\maismaisbolso\android\app\src\main\res
+kafka.system.com.maismaisbolso.app-pngs-6 D:\ws-projects\projects_with_flutter\maismaisbolso\build\app\generated\res\pngs\debug
+kafka.system.com.maismaisbolso.app-resValues-7 D:\ws-projects\projects_with_flutter\maismaisbolso\build\app\generated\res\resValues\debug
+kafka.system.com.maismaisbolso.app-rs-8 D:\ws-projects\projects_with_flutter\maismaisbolso\build\app\generated\res\rs\debug
+kafka.system.com.maismaisbolso.app-mergeDebugResources-9 D:\ws-projects\projects_with_flutter\maismaisbolso\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+kafka.system.com.maismaisbolso.app-mergeDebugResources-10 D:\ws-projects\projects_with_flutter\maismaisbolso\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+kafka.system.com.maismaisbolso.app-merged_res-11 D:\ws-projects\projects_with_flutter\maismaisbolso\build\app\intermediates\merged_res\debug
+kafka.system.com.maismaisbolso.app-packaged_res-12 D:\ws-projects\projects_with_flutter\maismaisbolso\build\sqflite\intermediates\packaged_res\debug

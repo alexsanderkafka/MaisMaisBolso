@@ -1,0 +1,4 @@
+#Sat Aug 03 14:14:06 BRT 2024
+base.0=D\:\\ws-projects\\projects_with_flutter\\maismaisbolso\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
