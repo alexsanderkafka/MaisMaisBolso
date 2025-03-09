@@ -5,11 +5,7 @@
 É uma aplicação mobile, que consiste auxiliar o usuário com seus gastos e ganhos
 
 ## Layout
-![mobile-1](https://github.com/alexsanderkafka/MaisMaisBolso/blob/main/assets/screen/Screenshot_20250309_104501.png)
-
-![mobile-2](https://github.com/alexsanderkafka/MaisMaisBolso/blob/main/assets/screen/Screenshot_20250309_104516.png)
-
-![mobile-3](https://github.com/alexsanderkafka/MaisMaisBolso/blob/main/assets/screen/Screenshot_20250309_104536.png)
+![mobile-1](https://github.com/alexsanderkafka/MaisMaisBolso/blob/main/assets/screen/Screenshot_20250309_104501.png) ![mobile-2](https://github.com/alexsanderkafka/MaisMaisBolso/blob/main/assets/screen/Screenshot_20250309_104516.png) ![mobile-3](https://github.com/alexsanderkafka/MaisMaisBolso/blob/main/assets/screen/Screenshot_20250309_104536.png)
 
 
 # Tecnologias utilizadas
