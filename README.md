@@ -15,7 +15,7 @@
 - Flutter 3.22.2
 
 ## Banco de dados
-- Usando o amarzenamento local com a  bilbioteca sqflite
+- Usando o armazenamento local com a  bilbioteca sqflite
 
 # Como executar o projeto
 Pré-requisitos: 
