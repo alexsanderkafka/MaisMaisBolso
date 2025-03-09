@@ -1,1 +1,0 @@
- D:\\ws-projects\\projects_with_flutter\\maismaisbolso\\.dart_tool\\flutter_build\\b78a2a2c30c49e6afb0b083db04ee1e1\\native_assets.yaml: 
